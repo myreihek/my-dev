@@ -71,10 +71,3 @@ Content column 1 | Content column 2
 *** 
 ___
 
-
-작성 예시 
-<https://img.shields.io/badge/license-mit-green.svg"> 
-https://img.shields.io/badge/--.svg 
-
-APM: /apm/l/:packageName.svg 
-AUR license: /aur/license/:packageName.svg
